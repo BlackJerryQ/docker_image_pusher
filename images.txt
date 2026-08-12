@@ -1,1 +1,1 @@
-thisisarpanghosh/garmin-fetch-data:v0.4.0
+kyuz0/vllm-therock-gfx1151:latest
