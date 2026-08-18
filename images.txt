@@ -1,1 +1,1 @@
-ghcr.io/ggml-org/llama.cpp:server-vulkan
+docker pull vllm/vllm-omni-rocm:v0.26.0
