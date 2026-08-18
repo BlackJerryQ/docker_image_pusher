@@ -1,1 +1,1 @@
-vllm/vllm-omni:v0.24.0
+ghcr.io/ggml-org/llama.cpp:server-vulkan
