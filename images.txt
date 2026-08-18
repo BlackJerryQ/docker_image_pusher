@@ -1,1 +1,1 @@
-kyuz0/vllm-therock-gfx1151:latest
+vllm/vllm-omni:v0.24.0
