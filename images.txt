@@ -1,1 +1,1 @@
-vllm/vllm-omni-rocm:v0.26.0
+vllm/vllm-openai-rocm:nightly
